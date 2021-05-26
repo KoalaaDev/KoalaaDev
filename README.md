@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![KoalaaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoalaaDev&count_private=true&theme=outrun&&show_icons=true)]
+![KoalaaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoalaaDev&count_private=true&theme=outrun&&show_icons=true)
 <!--
 **KoalaaDev/KoalaaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
