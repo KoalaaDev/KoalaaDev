@@ -5,9 +5,4 @@
 -  **Learning :** Data Science :zap: | Open-Source :fire:	
 -  **Languages :** Python, C, JavaScript💻
 -  **Hobbies :** Gaming :headphones:
-
-<p align="center">
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
-</p>
-
 -----
